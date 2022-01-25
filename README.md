@@ -13,6 +13,6 @@ The proposed deep transformer SWT model for the household power consumption fore
 1. Install Python 3.7, Tensorflow 2.4, and Keras 2.4
 2. Download all files and put them in the same folder. 
 3. cd to path. 
-4. Run the file [Transformers_Houses1to5_5min.py](https://github.com/LyesSaadSaoud/Wind_forecast/blob/main/main.m) 
+4. Run the file [Transformers_Houses1to5_5min.py](https://github.com/LyesSaadSaoud/House_transformer/blob/main/Transformers_Houses1to5_5min.py) 
 
 Please cite it as: L. Saad Saoud, H. Al-Marzouqi and R. Hussein, "Household Energy Consumption Prediction Using the Stationary Wavelet Transform and Transformers," in IEEE Access, vol. 10, pp. 5171-5183, 2022, doi: 10.1109/ACCESS.2022.3140818.
